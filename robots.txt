@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cticargu.github.io/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/app/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/assets/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/css/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/data/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/includes/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/item/sitemap.cticargu.gz
+Sitemap: https://cticargu.github.io/src/sitemap.cticargu.gz
